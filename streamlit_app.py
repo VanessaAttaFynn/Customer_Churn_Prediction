@@ -5,11 +5,7 @@ import pandas as pd
 import numpy as np
 from streamlit_lottie import st_lottie
 from streamlit_option_menu import option_menu
-import plotly.express as px
-import plotly.figure_factory as ff
 from pycaret.classification import *
-from prophet.plot import plot_plotly
-from prophet.plot import plot_plotly, plot_components_plotly
 import base64
 
 
